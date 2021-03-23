@@ -1,0 +1,61 @@
+#page3{
+    width: 100vw;
+    min-height: 95vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  
+    
+}
+
+
+
+.prix{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+}
+
+/*
+
+.t1 ,.t2 , .t4{
+    border: 0.5px solid grey;
+    display: flex;
+    flex-direction: column;
+    width: 220px;
+    height: 400px;
+}
+
+.t3{
+    border:0.5px solid #00aeff;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.T1header , .T2header , .T4header{
+   
+    width: 220px;
+    height: 140px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.623);
+    margin-top: -21px;
+    margin-left: -2px;
+    color:black;
+}
+
+.T3header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 220px;
+    height: 120px;
+    text-align: center;
+    background-color:  #00aeff;
+    margin-top: -21px;
+    margin-left: -1.5px;
+    color: white;
+}
+*/
